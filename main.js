@@ -6,7 +6,7 @@ var reservations = {
 var name = prompt('Please enter the name for your reservation');
 
 var claimReservation = function () {
-  console.log(name + " Thank you so much you being invited")
+  console.log(name + "Thank you So much you being invited")
 }
 
 claimReservation();
